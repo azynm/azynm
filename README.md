@@ -1,3 +1,1 @@
-zayn malik
-
-do not contact me for javafx projects.
+im 70% sure that I know what im doing
