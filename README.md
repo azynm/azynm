@@ -6,4 +6,4 @@ im currently teaching myself typescript and react so that I can actually call my
 
 trying to find my niche in this extremely vast space, so right now im pretty much open to anything and everything, provided it doesn't involve haskell or javafx.
 
-visit https://azyn.dev/ !! (currently transitioning it from pure html/css -> ts/react, following Omori's menu layouts as opposed to the old final fantasy games.)
+visit https://azyn.dev/ !! (currently transitioning it from pure html/css -> ts/react, following omori's menu layouts as opposed to the old final fantasy games.)
