@@ -1,4 +1,4 @@
-im 70% sure that i know what im doing
+zayn?
 ---
 3rd year cs @ southampton, currently studying machine learning, computer vision, and cloud app development alongside procrastinating literature reviews for my dissertation on improving CSCL. next semester i'll be looking at social computing techniques and natural language processing - fun!
 
