@@ -1,6 +1,6 @@
-im 70% sure that I know what im doing
+im 70% sure that i know what im doing
 ---
-3rd year cs @ southampton, currently learning machine learning, computer vision, and cloud app development alongside procrastinating literature reviews for my dissertation on improving CSCL.
+3rd year cs @ southampton, currently studying machine learning, computer vision, and cloud app development alongside procrastinating literature reviews for my dissertation on improving CSCL. next semester i'll be looking at social computing techniques and natural language processing - fun!
 
 im currently teaching myself typescript and react so that I can actually call myself a full-stack dev, and to spruce up my personal website. outside of that, I have plans for utilising matrix bridges to separate all of my social media communications from the short-form content they come bundled with.
 
