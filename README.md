@@ -1,10 +1,14 @@
-zayn?
+**zayn?**
 ---
-3rd year cs @ southampton, currently studying machine learning, computer vision, and cloud app development alongside procrastinating literature reviews for my dissertation on improving CSCL. next semester i'll be looking at social computing techniques and natural language processing - fun!
+3rd yr bsc compsci @ southampton (graduating next year... feels weird.)
 
-im currently teaching myself typescript and react so that I can actually call myself a full-stack dev, and to spruce up my personal website. outside of that, I have plans for utilising matrix bridges to separate all of my social media communications from the short-form content they come bundled with.
+uni stuffs:
+current modules: machine learning, computer vision, cloud app development
+next semester: social computing techniques, natural language processing
+creating a platform to help enhance CSCL and social productivity throughout the uni year!
 
-trying to find my niche in this extremely vast space, so right now im pretty much open to anything and everything, provided it doesn't involve haskell or javafx.
+personal stuffs:
+learning ts+react to make my website cooler and more interactive (OMORI menu system is my basis)
+trying to figure out what I wanna do in cs - open to anything not involving haskell or javafx
 
-### visit https://azyn.dev/ !!
-(currently transitioning it from pure html/css -> ts/react, following omori's menu layouts as opposed to the old final fantasy games.)
+#### visit https://azyn.dev/ !! (it will look better eventually I promise)
